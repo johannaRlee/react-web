@@ -1,7 +1,7 @@
 {
   "main.css": "/react-web/static/css/main.90e28946.chunk.css",
-  "main.js": "/react-web/static/js/main.c975d232.chunk.js",
-  "main.js.map": "/react-web/static/js/main.c975d232.chunk.js.map",
+  "main.js": "/react-web/static/js/main.d6b97d8e.chunk.js",
+  "main.js.map": "/react-web/static/js/main.d6b97d8e.chunk.js.map",
   "static/css/1.73b1a886.chunk.css": "/react-web/static/css/1.73b1a886.chunk.css",
   "static/js/1.465b7962.chunk.js": "/react-web/static/js/1.465b7962.chunk.js",
   "static/js/1.465b7962.chunk.js.map": "/react-web/static/js/1.465b7962.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/tictactoeimg.gif": "/react-web/static/media/tictactoeimg.6ce8e740.gif",
   "static/media/pokeapiimg.gif": "/react-web/static/media/pokeapiimg.6b1e51da.gif",
   "static/media/todoimg.gif": "/react-web/static/media/todoimg.0d6ac89d.gif",
-  "static/css/main.90e28946.chunk.css.map": "/react-web/static/css/main.90e28946.chunk.css.map",
   "static/css/1.73b1a886.chunk.css.map": "/react-web/static/css/1.73b1a886.chunk.css.map",
+  "static/css/main.90e28946.chunk.css.map": "/react-web/static/css/main.90e28946.chunk.css.map",
   "index.html": "/react-web/index.html",
-  "precache-manifest.d9a993a1e02d46a26a55c45386ba0d90.js": "/react-web/precache-manifest.d9a993a1e02d46a26a55c45386ba0d90.js",
+  "precache-manifest.c3b50678139fef72c3b9f4eac120c9fe.js": "/react-web/precache-manifest.c3b50678139fef72c3b9f4eac120c9fe.js",
   "service-worker.js": "/react-web/service-worker.js"
 }
