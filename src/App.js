@@ -10,8 +10,8 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>
-            <h4>Welcome to </h4>
-            <h1>Johanna's Portfolio</h1>
+            <h4 className="smallheadline">Welcome to </h4>
+            <h1 className="bigheadline">Johanna's Portfolio</h1>
           </p>
         </header>
         <Headlines />

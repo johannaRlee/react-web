@@ -9,31 +9,43 @@ export default class Projects extends Component {
     return (
       <div className="reactJsProjects container">
         <div className="row">
-          <figure id="todo" className="figure col-sm">
-            <figcaption class="figure-caption"> Todo List </figcaption>
+        <div className="col-sm">
+          <a href="https://justjo120.github.io/todolist/">
+            <figure id="todo">
+              <figcaption class="figure-caption"> Todo List </figcaption>
 
-            <img
-              src={todoimg}
-              alt="todo list"
-              className="figure-img img-fluid rounded"
-            />
-          </figure>
-          <figure id="pokeapi" className="col-sm">
-            <figcaption class="figure-caption">Pokedex API </figcaption>
-            <img
-              src={pokeapiimg}
-              alt="pokemon api"
-              className="figure-img img-fluid rounded"
-            />
-          </figure>
-          <figure id="tictactoe" className="col-sm">
-            <figcaption class="figure-caption">Tic Tac Toe </figcaption>
-            <img
-              src={tictactoeimg}
-              alt="tic tac toe"
-              className="figure-img img-fluid rounded"
-            />
-          </figure>
+              <img
+                src={todoimg}
+                alt="todo list"
+                className="figure-img img-fluid rounded"
+              />
+            </figure>
+          </a>
+          </div>
+          <div  className="col-sm">
+            <a href="https://justjo120.github.io/pokedex-react/">
+              <figure id="pokeapi">
+                <figcaption class="figure-caption">Pokedex API </figcaption>
+                <img
+                  src={pokeapiimg}
+                  alt="pokemon api"
+                  className="figure-img img-fluid rounded"
+                />
+              </figure>
+            </a>
+          </div>
+          <div className="col-sm">
+          <a href="https://justjo120.github.io/tic-tac-toe/">
+            <figure id="tictactoe">
+              <figcaption class="figure-caption">Tic Tac Toe </figcaption>
+              <img
+                src={tictactoeimg}
+                alt="tic tac toe"
+                className="figure-img img-fluid rounded"
+              />
+            </figure>
+          </a>
+        </div>
         </div>
       </div>
     );

@@ -8,7 +8,7 @@ export default class Headlines extends Component {
       <div className="Headlines">
         <header className="Headlines-header">
           <p>
-            <ul className="h3 list-inline">
+            <ul className="h3 list-inline smallheadline">
               <li className="list-inline-item">Creative Front End Developer</li>
               <li className="list-inline-item text-info">Women Who Code Director</li>
               <li className="list-inline-item">UX/UI Enthusiast </li>
@@ -17,7 +17,7 @@ export default class Headlines extends Component {
               </li>
             </ul>
             <hr />
-            <h1>ReactJS Projects:</h1>
+            <h1 className="bigheadline">ReactJS Projects:</h1>
             <hr />
           </p>
         </header>
